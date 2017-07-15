@@ -6,8 +6,8 @@ I use [`yarn`](https://yarnpkg.com) for package manager
 
 
 >1. create simple API with [**`graphcool`**][gc]
-2. type **_`yarn`_** in root project to install dependencies
-3. run the dev server with **_`yarn run start`_**</b>
+>2. type **_`yarn`_** in root project to install dependencies
+>3. run the dev server with **_`yarn run start`_**</b>
 
 
 
