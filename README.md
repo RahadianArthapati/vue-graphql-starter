@@ -7,7 +7,7 @@ I use [`yarn`](https://yarnpkg.com) for package manager
 
 
 >1. create simple API with [**`graphcool`**][gc]
->> paste your endpoint here
+>> paste your endpoint here :+1:
 #### main.js
 ```javascript
 const networkInterface = createNetworkInterface({ uri: 'your-end-point' });
