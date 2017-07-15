@@ -1,7 +1,8 @@
 # **vue-graphql-starter**
 ### Starter project for Vue 2 and GraphQL with graphcool
+---
 ![graphcool][gc_img]
-
+---
 I use [`yarn`](https://yarnpkg.com) for package manager
 
 
